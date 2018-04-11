@@ -6,7 +6,7 @@ using System;
 namespace RuntimeComponentTests
 {
     [TestClass]
-    public class UnitTest1
+    public class StubRuntimeComponentTypesTest
     {
         [TestMethod]
         public async Task StubbedIAsyncActionIsAwaitable()
